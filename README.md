@@ -1,10 +1,12 @@
-## Hi there 👋
+### ¡Hola! soy María
+💻 Profe de informática en ciclos formativos
+📌 Cádiz
+🌱 Lenguajes de marca, Entornos de desarrollo
+💫 Aficciones: naturaleza, deporte, viajar
 
 <!--
 **maricuela/maricuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
