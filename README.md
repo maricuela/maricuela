@@ -1,8 +1,8 @@
 ### ¡Hola! soy María
-💻 Profe de informática en ciclos formativos
-📌 Cádiz
-🌱 Lenguajes de marca, Entornos de desarrollo
-💫 Aficciones: naturaleza, deporte, viajar
+-💻 Profe de informática en ciclos formativos
+-📌 Cádiz
+-🌱 Lenguajes de marca, Entornos de desarrollo
+-💫 Aficciones: naturaleza, deporte, viajar
 
 <!--
 **maricuela/maricuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
