@@ -1,7 +1,7 @@
 ### ¡Hola! soy María
--💻 Profe de informática en ciclos formativos
--📌 Cádiz
--🌱 Lenguajes de marca, Entornos de desarrollo
+-💻 Profe de informática en ciclos formativos  
+-📌 Cádiz  
+-🌱 Lenguajes de marca, Entornos de desarrollo  
 -💫 Aficciones: naturaleza, deporte, viajar
 
 <!--
